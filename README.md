@@ -1,7 +1,7 @@
 SeleniumPythonBindingsForChrome
 ===============================
 
-Driving Chrome With Selenium and Python (Automation)
+Driving Chrome With Selenium and Python (Chrome Automation)
 
 Requirements:
 
